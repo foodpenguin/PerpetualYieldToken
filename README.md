@@ -2,8 +2,8 @@
 
 ### 部署地址
 
-- Sepolia: 0x2ce42e333b9e543d07ff6b01cf98fb3b914039d7
-	https://sepolia.etherscan.io/address/0x2ce42e333b9e543d07ff6b01cf98fb3b914039d7
+- Sepolia: 0x0bddF631FC5d906C5399dcCD63fC15641B5E931b
+	https://sepolia.etherscan.io/address/0x0bddf631fc5d906c5399dccd63fc15641b5e931b
 
 ### 功能概述
 
