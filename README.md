@@ -39,4 +39,4 @@
 - `balanceOf` 會即時計算衰減，但實際 `_balances` 與 `_totalSupply` 只在交易/鑄造/銷毀時更新。
 - `lastActivity` 只在 `transfer`/`mint`/`burn` 更新，不會因 `approve` 或 `balanceOf` 更新。
 
-```
+
