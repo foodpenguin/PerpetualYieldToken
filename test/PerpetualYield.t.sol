@@ -3,7 +3,6 @@ pragma solidity ^0.8.3;
 
 import "forge-std/Test.sol";
 import "../src/PerpetualYield.sol";
-import "@openzeppelin/contracts/interfaces/IERC3156FlashBorrower.sol";
 
 contract MockFlashBorrower is IERC3156FlashBorrower {
     PerpetualYield public token;

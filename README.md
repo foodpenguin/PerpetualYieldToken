@@ -1,5 +1,10 @@
 ## PerpetualYield
 
+### 部署地址
+
+- Sepolia: 0x2ce42e333b9e543d07ff6b01cf98fb3b914039d7
+	https://sepolia.etherscan.io/address/0x2ce42e333b9e543d07ff6b01cf98fb3b914039d7
+
 ### 功能概述
 
 - ERC20 代幣，代幣餘額在寬限期後會依時間做指數衰減。
